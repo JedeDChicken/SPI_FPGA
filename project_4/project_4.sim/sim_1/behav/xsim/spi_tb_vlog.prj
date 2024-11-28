@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../4-1/CoE168/W9/regfile.v" \
+"../../../../../4-1/CoE168/W9/spi_master.v" \
+"../../../../../4-1/CoE168/W9/spi_slave.v" \
+"../../../../../4-1/CoE168/W9/spi_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
