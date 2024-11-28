@@ -1,0 +1,8 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"spi_tb_func_synth.v" \
+"../../../../../../4-1/CoE168/W9/spi_master.v" \
+"../../../../../../4-1/CoE168/W9/spi_tb.v" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danie/Desktop/project_4/project_4.sim/sim_1/synth/func/xsim/spi_tb_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-311] analyzing module spi_slave
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danie/Desktop/4-1/CoE168/W9/spi_master.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spi_master
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/danie/Desktop/4-1/CoE168/W9/spi_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module spi_tb

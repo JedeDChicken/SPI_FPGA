@@ -1,0 +1,35 @@
+Time resolution is 1 ps
+Outputs match at test index  0. 00000000. Test pass.
+Outputs match at test index  1. 0000ade1. Test pass.
+Outputs match at test index  2. 00000000. Test pass.
+Outputs match at test index  3. 0000dead. Test pass.
+Outputs match at test index  4. 00000000. Test pass.
+Outputs match at test index  5. 00000000. Test pass.
+Outputs match at test index  6. 00000000. Test pass.
+Outputs match at test index  7. 0000aaaa. Test pass.
+Outputs match at test index  8. 0000bbbb. Test pass.
+Outputs match at test index  9. 0000cccc. Test pass.
+Outputs match at test index 10. 00000000. Test pass.
+Outputs match at test index 11. 0000cafe. Test pass.
+Outputs match at test index 12. 00000000. Test pass.
+Outputs match at test index 13. 00000000. Test pass.
+Outputs match at test index 14. 0000cafe. Test pass.
+Outputs match at test index 15. 00005678. Test pass.
+$finish called at time : 82455 ns : File "C:/Users/danie/Desktop/4-1/CoE168/W9/spi_tb.v" Line 168
+Outputs match at test index  0. 00000000. Test pass.
+Outputs match at test index  1. 0000ade1. Test pass.
+Outputs match at test index  2. 00000000. Test pass.
+Outputs match at test index  3. 0000dead. Test pass.
+Outputs match at test index  4. 00000000. Test pass.
+Outputs match at test index  5. 00000000. Test pass.
+Outputs match at test index  6. 00000000. Test pass.
+Outputs match at test index  7. 0000aaaa. Test pass.
+Outputs match at test index  8. 0000bbbb. Test pass.
+Outputs match at test index  9. 0000cccc. Test pass.
+Outputs match at test index 10. 00000000. Test pass.
+Outputs match at test index 11. 0000cafe. Test pass.
+Outputs match at test index 12. 00000000. Test pass.
+Outputs match at test index 13. 00000000. Test pass.
+Outputs match at test index 14. 0000cafe. Test pass.
+Outputs match at test index 15. 00005678. Test pass.
+$finish called at time : 164855 ns : File "C:/Users/danie/Desktop/4-1/CoE168/W9/spi_tb.v" Line 168

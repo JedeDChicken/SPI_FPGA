@@ -1,0 +1,7 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/danie/Desktop/4-1/CoE168/W9/spi_master.v,1700756668,verilog,,C:/Users/danie/Desktop/4-1/CoE168/W9/spi_tb.v,,spi_master,,,,,,,,
+C:/Users/danie/Desktop/4-1/CoE168/W9/spi_tb.v,1700756669,verilog,,,,spi_tb,,,,,,,,
+C:/Users/danie/Desktop/project_4/project_4.sim/sim_1/synth/func/xsim/spi_tb_func_synth.v,1700837709,verilog,,C:/Users/danie/Desktop/4-1/CoE168/W9/spi_master.v,,glbl;regfile;spi_slave,,,,,,,,
