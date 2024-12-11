@@ -1,5 +1,5 @@
 # CoE168 Exercise
 
-*FPGA, Verilog, Vivado
+*FPGA, Verilog HDL, Vivado
 
 *Documentations on Doc folder
